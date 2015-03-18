@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-wikish",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "Federated Wiki - wikish Plugin",
   "keywords": [
     "wikish",
@@ -28,10 +28,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedwiki/wiki-plugin-wikish.git"
+    "url": "https://github.com/interstar/wiki-plugin-wikish.git"
   },
   "bugs": {
-    "url": "https://github.com/fedwiki/wiki-plugin-wikish/issues"
+    "url": "https://github.com/interstar/wiki-plugin-wikish/issues"
   },
   "engines": {
     "node": "0.10"
