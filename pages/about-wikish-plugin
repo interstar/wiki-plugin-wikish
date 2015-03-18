@@ -1,0 +1,10 @@
+{
+  "title": "About wikish Plugin",
+  "story": [
+    {
+      "type": "wikish",
+      "id": "268b66b28e09b588",
+      "text": "Plugin type for 'wikish', the markup language of the original [[ThoughtStorms]] wiki and [[SdiDesk]]. It's derived from [[UseMod]]'s markup format."
+    }],
+  "journal": "" 
+}
